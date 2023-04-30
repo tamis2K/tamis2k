@@ -20,7 +20,6 @@
 </div>
 
 
-
 Tenho 20 anos cursando bacharelado de Sistemas de informação na c 5.º período 
 
 Curso para full stack development javascript na Onebitcode
