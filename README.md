@@ -19,6 +19,7 @@
     <img  align="center"alt="nodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
+<br/>
 
 Tenho 20 anos cursando bacharelado de Sistemas de informação na c 5.º período 
 
