@@ -23,4 +23,4 @@
 
 Tenho 20 anos cursando bacharelado de Sistemas de informação na c 5.º período 
 
-curso para dev full stack javascript na Onebitcode
+Curso para full stack development javascript na Onebitcode
