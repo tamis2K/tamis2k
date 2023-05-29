@@ -2,7 +2,7 @@
 ### Olá! eu sou o Mateus Varnier 👋
 
 ![tamis2K  GitHub stats](https://github-readme-stats.vercel.app/api?username=tamis2k&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamis2k&layout=compact)](https://github.com/tamis2k/github-readme-stats)
+
 
 ## Tecnologias que eu uso no meu dia 
 
