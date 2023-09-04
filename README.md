@@ -26,4 +26,4 @@
 
 <!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tamis2K&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-Tenho 20 anos, cursando bacharelado de Sistemas de informação na Faculdade UniMater 6º período 
+Tenho 21 anos, cursando bacharelado de Sistemas de informação na Faculdade UniMater 6º período 
